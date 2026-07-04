@@ -32,3 +32,6 @@ htmlcov/
 .idea/
 .vscode/
 *.pdf
+
+# airflow
+airflow/logs/
